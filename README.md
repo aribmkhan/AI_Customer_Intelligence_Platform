@@ -2,7 +2,7 @@
 Building a system that takes in raw customer/transaction data and automatically produces actionable customer intelligence.
 ## Business Problem
 NovaMart has a large customer base but lacks a systematic way to identify high-value customers, understand consumer behavior, detect customers at risk of disengagement, and translate customer analytics into actionable marketing strategies.
-__Objectives__
+### Objectives
 1. Identify distinct customer behavioral segments.
 2. Determine which segments generate the most revenue.
 3. Identify high-value customers who may be at risk.
